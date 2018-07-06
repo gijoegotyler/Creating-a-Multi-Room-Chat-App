@@ -1,0 +1,49 @@
+html, body {
+  text-align: center;
+  font-family: 'Avenir Next', 'Helvetica', 'Arial', sans-serif;
+}
+
+html,body,li,form,ul {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+}
+
+#message {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 2px solid #3CBC8D;
+  border-radius: 4px;
+}
+
+#button {
+  width: 10%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  background-color: #3CBC8D;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+ul {
+  margin-top: 10px;
+}
+
+li {
+  width: 90%;
+  background-color: #30A9DE;
+  color: white;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  list-style: none;
+  border-radius: 5px;
+}

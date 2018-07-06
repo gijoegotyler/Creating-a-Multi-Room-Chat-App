@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Ty's Chat App</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.0/socket.io.js"></script>
+    <script src="/static/game.js"></script>
+  </head>
+  <body>
+    <center><ul id="thread"></thread></center>
+    <div><input id="message" type="text" placeholder="Message" autocomplete="off">
+    <button onclick="sendMess()" id="button">Submit</button></div>
+  </body>
+</html>

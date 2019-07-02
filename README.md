@@ -1,5 +1,6 @@
 # Creating-a-Multi-Room-Chat-App
 A chat app that is capable of serving many rooms.
+This project was made as a precursor to the my Multiplayer Game as just a basic test for a simplified networking structure.
 
 # Version 1.1
 Hooray Multi-Room Functionality has been added
